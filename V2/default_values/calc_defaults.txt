@@ -1,0 +1,11 @@
+{"def_final_fy": 2045,
+"def_init_contrib_date":[] ,
+"def_init_contrib_freq": "fortnightly",
+"def_init_sav_contrib": 500,
+"def_sav_int_rt": 0.9,
+"def_pre_inv_sav_goal": 75000,
+"def_init_sav":[] ,
+"def_pg_contrib":[] ,
+"def_psg_inv_contrib": 300,
+"def_inv_int_rt": 5.0,
+"def_init_inv":[] }
