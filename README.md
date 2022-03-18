@@ -7,4 +7,4 @@ This set of programs generates a GUI using PYQT5 which plots and tabulates predi
 
 The current version includes filtering to attempt to make sure user inputs are of the forms required for the app operation, and checks upon exit if the program registers unsaved changes across any of the user input parameters or tables.
 
-The most recent version is V3, which includes extra inbuilt redundancies against loss or corruption of the default values files.
+The most recent version is V4, which includes extra inbuilt redundancies against loss or corruption of the default values files, and to the deletion of user defined and default directories, which previously would crash the program.
